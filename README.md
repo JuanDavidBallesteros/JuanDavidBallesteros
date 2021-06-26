@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Juan, a Industrial Designer and student of Communications Engineering 👨‍💻 ✏️</div>  
+### <div align="center">I'm Juan, a Industrial Designer and student of Telecommunications Engineering 👨‍💻 ✏️</div>  
   
 
 - 🌱 I’m currently learning Java  
